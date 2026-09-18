@@ -1,0 +1,15 @@
+{
+  "hash": "fb78bb816400bcd0bf0e0864081b9d53",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Experience and Resume\"\n---\n\nWork Experience:\n\nArvidson Lab: Case Western Reserve University\n\nTeaching Assistant ENGR 131: Case western Reserve University\n\nQuality Control Intern: Vantage Specialty Chemicals\n\nEducation:\n\nB.S Biochemistry: Case Western reserve university - expected graduation January 2028\n\nCombined Masters and Bachelers Biotechnology, Pharmacology track: Case Western reserve university - expected graduation January 2028\n\nProjects:\n\nCockroach Ketogenisis research at Arvidson lab\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

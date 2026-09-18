@@ -1,0 +1,29 @@
+project:
+  type: website
+  output-dir: docs
+  resources:
+  - ClementeResume.pdf
+
+website:
+  title: "Clemente Brogca - Project A"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - Blog.qmd
+      - href: about.qmd
+        text: resume
+      - text: "Download Resume"
+        href: ClementeResume.pdf
+      
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+    toc: true
+
+editor: visual
+
