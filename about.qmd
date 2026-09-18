@@ -19,7 +19,3 @@ Combined Masters and Bachelers Biotechnology, Pharmacology track: Case Western r
 Projects:
 
 Cockroach Ketogenisis research at Arvidson lab
-
-```{r}
-1 + 1
-```

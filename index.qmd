@@ -9,7 +9,3 @@ I am a senior undergraduate pursuing a B.S. in Biochemistry and a first year com
 To connect with me professionally visit [www.linkedin.com/in/clemente-brogca-4b6191303](www.linkedin.com/in/clemente-brogca-4b6191303)
 
 or contact through the email cab348\@case.edu
-
-```{r}
-1 + 1
-```
